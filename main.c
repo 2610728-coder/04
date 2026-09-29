@@ -10,7 +10,7 @@ int main(int argc, char *argv[]){
     m = (sec % 3600) / 60;
     s = sec % 60;
 
-    printf("the time for %d second is %d : %d : %d", sec, h, m, s);
+    printf("the time for %d second is %d : %d : %d\n", sec, h, m, s);
         
     return 0;
 }
