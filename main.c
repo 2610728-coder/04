@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int arge, char *argv[]){
+int main(int argc, char *argv[]){
     int x, y, z, m;
     int a, b, c;
 
